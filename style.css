@@ -1,0 +1,63 @@
+#result {
+    color: rgb(61, 197, 34);
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#output {
+    font-weight: bolder;
+    font-size: 25px;
+    color: rgba(255, 5, 5, 0.855);
+    font-family: 'Mukta', sans-serif;
+}
+
+
+
+#a{
+   
+    margin-left: 550px;
+    color: rgb(255, 255, 255);
+}
+
+#b{ color: white;
+margin-left: -50px;}
+
+
+#foot {
+  margin-top:200px;
+
+}
+body{
+    background-image: url("https://free4kwallpapers.com/uploads/originals/2016/05/08/pushup-workout-wallpaper.jpg");
+    background-size: cover;
+    background-color: rgb(0, 0, 0);
+}
+
+.box h1{ color: rgb(255, 255, 255);}
+
+#color{
+    /* background-image: url("./main-qimg-e3edb017724239afd94250cfb4e36eb6-lq.jpeg");
+    background-size: cover; */
+    margin-top: 195px;
+    margin-left: -655px;
+    text-align: center;
+    width: 400px;
+height: 500px;
+
+border-radius: 10px 10px 10px 10px;}
+
+
+input[type=text]{
+    width: 230px;
+    margin-left: 65px;
+
+}
+#m{ font-size: 15px;
+font-weight: bold;
+color: white;
+}
+#f{ font-size: 15px;
+    font-weight: bold;
+    color: white;
+    }
+    #start{color: rgb(196, 112, 112);}
